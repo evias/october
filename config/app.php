@@ -29,7 +29,7 @@ return [
     |
     */
 
-    'url' => 'http://localhost',
+    'url' => 'http://october.gevs-dev.loc:1988',
 
     /*
     |--------------------------------------------------------------------------
@@ -81,7 +81,7 @@ return [
     |
     */
 
-    'key' => 'CHANGE_ME!!!!!!!!!!!!!!!!!!!!!!!',
+    'key' => 'SUm1Yf3NWyUk6vqqPLzYC6pUnjlZQkH6',
 
     'cipher' => 'AES-256-CBC',
 
